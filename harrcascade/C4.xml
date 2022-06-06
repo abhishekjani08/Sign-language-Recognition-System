@@ -1,0 +1,149 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<myhaar type_id="opencv-haar-classifier">
+  <size>
+    24 24</size>
+  <stages>
+    <_>
+      <trees>
+        <_>
+          <_>
+            <feature>
+              <rects>
+                <_>
+                  2 0 16 16 -1.</_>
+                <_>
+                  2 0 8 8 2.</_>
+                <_>
+                  10 8 8 8 2.</_></rects>
+              <tilted>0</tilted></feature>
+            <threshold>0.1367509961128235</threshold>
+            <left_val>-1.</left_val>
+            <right_val>0.8918939232826233</right_val></_></_></trees>
+      <stage_threshold>0.8918939232826233</stage_threshold>
+      <parent>-1</parent>
+      <next>-1</next></_>
+    <_>
+      <trees>
+        <_>
+          <_>
+            <feature>
+              <rects>
+                <_>
+                  1 12 20 12 -1.</_>
+                <_>
+                  1 15 20 6 2.</_></rects>
+              <tilted>0</tilted></feature>
+            <threshold>-0.0966058075428009</threshold>
+            <left_val>0.9090903997421265</left_val>
+            <right_val>-0.9999957084655762</right_val></_></_></trees>
+      <stage_threshold>0.9090903997421265</stage_threshold>
+      <parent>0</parent>
+      <next>-1</next></_>
+    <_>
+      <trees>
+        <_>
+          <_>
+            <feature>
+              <rects>
+                <_>
+                  1 18 16 6 -1.</_>
+                <_>
+                  1 18 8 3 2.</_>
+                <_>
+                  9 21 8 3 2.</_></rects>
+              <tilted>0</tilted></feature>
+            <threshold>0.0282506998628378</threshold>
+            <left_val>-1.</left_val>
+            <right_val>0.7213125824928284</right_val></_></_></trees>
+      <stage_threshold>0.7213125824928284</stage_threshold>
+      <parent>1</parent>
+      <next>-1</next></_>
+    <_>
+      <trees>
+        <_>
+          <_>
+            <feature>
+              <rects>
+                <_>
+                  5 9 10 12 -1.</_>
+                <_>
+                  10 9 5 12 2.</_></rects>
+              <tilted>0</tilted></feature>
+            <threshold>0.0823673307895660</threshold>
+            <left_val>-1.</left_val>
+            <right_val>0.7004057168960571</right_val></_></_></trees>
+      <stage_threshold>0.7004057168960571</stage_threshold>
+      <parent>2</parent>
+      <next>-1</next></_>
+    <_>
+      <trees>
+        <_>
+          <_>
+            <feature>
+              <rects>
+                <_>
+                  9 0 6 9 -1.</_>
+                <_>
+                  11 2 2 9 3.</_></rects>
+              <tilted>1</tilted></feature>
+            <threshold>-0.0521877482533455</threshold>
+            <left_val>0.8518512248992920</left_val>
+            <right_val>-0.7930998802185059</right_val></_></_>
+        <_>
+          <_>
+            <feature>
+              <rects>
+                <_>
+                  2 19 21 3 -1.</_>
+                <_>
+                  9 19 7 3 3.</_></rects>
+              <tilted>0</tilted></feature>
+            <threshold>0.0137683898210526</threshold>
+            <left_val>0.4776234030723572</left_val>
+            <right_val>-0.9999989867210388</right_val></_></_></trees>
+      <stage_threshold>-0.3154765069484711</stage_threshold>
+      <parent>3</parent>
+      <next>-1</next></_>
+    <_>
+      <trees>
+        <_>
+          <_>
+            <feature>
+              <rects>
+                <_>
+                  0 0 24 9 -1.</_>
+                <_>
+                  8 3 8 3 9.</_></rects>
+              <tilted>0</tilted></feature>
+            <threshold>-0.3283441960811615</threshold>
+            <left_val>0.8274105191230774</left_val>
+            <right_val>-0.7309389114379883</right_val></_></_>
+        <_>
+          <_>
+            <feature>
+              <rects>
+                <_>
+                  23 4 1 20 -1.</_>
+                <_>
+                  23 14 1 10 2.</_></rects>
+              <tilted>0</tilted></feature>
+            <threshold>-9.3970205634832382e-003</threshold>
+            <left_val>-0.5160564780235291</left_val>
+            <right_val>0.1212539970874786</right_val></_></_>
+        <_>
+          <_>
+            <feature>
+              <rects>
+                <_>
+                  0 4 1 20 -1.</_>
+                <_>
+                  0 14 1 10 2.</_></rects>
+              <tilted>0</tilted></feature>
+            <threshold>-0.0195418298244476</threshold>
+            <left_val>0.7256817221641541</left_val>
+            <right_val>-0.8423159718513489</right_val></_></_></trees>
+      <stage_threshold>0.1063485965132713</stage_threshold>
+      <parent>4</parent>
+      <next>-1</next></_></stages></myhaar>
+</opencv_storage>
